@@ -1,0 +1,27 @@
+#
+declare package
+import module
+write function
+
+
+#
+- a function with the first letter is a capital can be called by a function not in the same package
+- a fucntion that start with lowercase letter only accessible in its own package
+
+#
+defer
+
+#
+type: struct
+
+#
+pointer
+
+#
+array
+
+#
+slice
+
+#
+map
